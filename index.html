@@ -4,11 +4,9 @@
 <head>
     <title>GSoC Orgs Viz</title>
     <meta charset="utf-8">
-    <script src="scripts/d3.min.js"></script>
-    <script src="scripts/main.js"></script>
-    <script src="scripts/graph.js"></script>
-    <script src="scripts/card.js"></script>
-    <script src="scripts/chart.js"></script>
+    <meta name="description" content="Get insight to GSoC participating organizations over years">
+    <meta name="keywords" content="JS,d3,GSoC,Google Summer of Code,Organizations">
+    <meta name="author" content="Dipankar Patro">
 </head>
 
 <style>
@@ -30,6 +28,7 @@
 </style>
 
 <body>
+
 <div id="intro">
     <p>This is a Google Summer of Code organizations details visualizer. [Currently under development.]</p>
     <p>How to use:</p>
@@ -40,6 +39,7 @@
     </ol>
     <p>Information taken from Google Summer of Code (GSoC) website. Visualization built using d3 in javascript.</p>
 </div>
+
 <div id="selector">
     <select name="dataSelector" onchange="loadData(this)" autocomplete="off">
         <option value="" SELECTED>Select Data to Load</option>
@@ -47,11 +47,19 @@
         <option value="gsoc13.json">GSoC 2013</option>
     </select>
 </div>
+
 <div id="chart"></div>
+
 <div id="graph"></div>
+
+
 <div id="card"></div>
-<script>
-</script>
+
+<script src="scripts/d3.min.js"></script>
+<script src="scripts/main.js"></script>
+<script src="scripts/graph.js"></script>
+<script src="scripts/card.js"></script>
+<script src="scripts/chart.js"></script>
 
 </body>
 
