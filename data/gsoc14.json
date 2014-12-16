@@ -1,0 +1,1142 @@
+[
+  {
+    "gt": "google/gsoc2014/n52",
+    "link": "https://wiki.52north.org/bin/view/Projects/GSoC2014ProjectIdeas",
+    "name": "52\u00b0North Initiative for Geospatial Open Source Software GmbH",
+    "tags": ["geo", "geospatial", "java", "gis", "spatiotemporal", "geoprocessing", "traffic", "environment", "r", "r-project", "earth observation", "geoprocessing", "spatial data", "geostatistics", "sensor web", "search", "mobile", "eventing", "database"]
+  },
+  {
+    "gt": "google/gsoc2014/aerospaceresearchnet",
+    "link": "http://aerospaceresearch.net/constellation/forum_thread.php?id=271",
+    "name": "AerospaceResearch.Net",
+    "tags": ["space", "aviation", "citizen science", "distributed computing", "high performance computing", "research", "sensor grid", "engineering", "satellite tracking", "ground station network", "java", "c", "python"]
+  },
+  {
+    "gt": "google/gsoc2014/amahi",
+    "link": "https://wiki.amahi.org/index.php/Google_Summer_of_Code_Ideas",
+    "name": "Amahi",
+    "tags": ["home server", "nas", "streaming", "golang", "ruby", "ror", "python", "spdy"]
+  },
+  {
+    "gt": "google/gsoc2014/apache",
+    "link": "http://s.apache.org/gsoc2014ideas",
+    "name": "Apache Software Foundation",
+    "tags": ["c", "java", "python", "c++", "perl", "opensource", "apache", "erlang"]
+  },
+  {
+    "gt": "google/gsoc2014/apertium",
+    "link": "http://wiki.apertium.org/wiki/Ideas_for_Google_Summer_of_Code",
+    "name": "Apertium",
+    "tags": ["mt", "nlp", "linguistics", "grammar", "c", "c++", "python", "java", "xml", "morphology"]
+  },
+  {
+    "gt": "google/gsoc2014/appleseed",
+    "link": "https://github.com/appleseedhq/appleseed/wiki/List-of-Project-Ideas",
+    "name": "appleseed",
+    "tags": ["3d", "computer graphics", "rendering", "ray tracing", "animation", "c++", "git", "github", "code optimization", "high performance computing"]
+  },
+  {
+    "gt": "google/gsoc2014/arches",
+    "link": "http://archesproject.org/ideas/",
+    "name": "Arches Project",
+    "tags": ["heritage", "archaeology", "inventory", "python", "postgres", "postgis", "geospatial", "extjs", "geoserver", "openlayers"]
+  },
+  {
+    "gt": "google/gsoc2014/tatoeba",
+    "link": "http://en.wiki.tatoeba.org/articles/show/gsoc_ideas",
+    "name": "Association Tatoeba",
+    "tags": ["translation", "languages", "linux", "php", "mysql", "cakephp", "c++", "web", "shell_script", "natural_language_processing", "xmpp", "python"]
+  },
+  {
+    "gt": "google/gsoc2014/wesnoth",
+    "link": "http://wiki.wesnoth.org/SummerOfCodeIdeas",
+    "name": "Battle for Wesnoth",
+    "tags": ["ai_development", "ai", "artificial_intelligence", "lua", "multiplayer", "game_development", "c++", "game_engine", "game", "games", "graphics", "server", "scripting", "extensibility"]
+  },
+  {
+    "gt": "google/gsoc2014/beagle",
+    "link": "http://elinux.org/BeagleBoard/GSoC/Ideas",
+    "name": "BeagleBoard.org",
+    "tags": ["linux", "kernel", "physical computing", "robotics", "art", "python", "node.js", "embedded", "arm", "javascript", "rtos", "android"]
+  },
+  {
+    "gt": "google/gsoc2014/beamcommunity",
+    "link": "https://github.com/beamcommunity/beamcommunity.github.com/wiki",
+    "name": "BEAM Community",
+    "tags": ["erlang", "elixir", "erlang vm", "actors", "ejabberd", "disco", "xmpp", "distributed"]
+  },
+  {
+    "gt": "google/gsoc2014/benetech",
+    "link": "https://github.com/benetech/svgtex/wiki/Ideas-for-GSoC-2014",
+    "name": "Benetech",
+    "tags": ["a11y", "accessibility", "education", "literacy", "human rights", "environment"]
+  },
+  {
+    "gt": "google/gsoc2014/bio4j",
+    "link": "https://github.com/bio4j/gsoc14/wiki/ideas",
+    "name": "Bio4j",
+    "tags": ["graph databases", "titan", "neo4j", "scala", "java", "git", "github", "bioinformatics", "biology", "data", "big data", "genomics", "cloud computing", "aws"]
+  },
+  {
+    "gt": "google/gsoc2014/biojs",
+    "link": "https://rostlab.org/services/biojs/gsoc.html",
+    "name": "BioJavaScript",
+    "tags": ["javascript", "bioinformatics", "web development", "standard", "library", "registry"]
+  },
+  {
+    "gt": "google/gsoc2014/bmi_cci",
+    "link": "https://docs.imphub.org/display/PS/Google+Summer+of+Code+-+2014",
+    "name": "Biomedical Informatics, Emory University",
+    "tags": ["biomedical", "healthcare", "clinical", "imaging", "informatics", "dicom", "cloud", "nosql", "neo4j", "big data", "data mining", "web services", "map reduce", "hadoop", "javascript", "java", "databases"]
+  },
+  {
+    "gt": "google/gsoc2014/blender",
+    "link": "http://wiki.blender.org/index.php/Dev:Ref/GoogleSummerOfCode/2014/Ideas",
+    "name": "Blender Foundation",
+    "tags": ["3d", "computer graphics", "modeling", "animation", "rendering", "compositing", "game creation", "video editing", "artist tools", "simulation", "visualization", "c", "c++", "python", "opengl", "opencl", "cuda", "sound", "audio", "music"]
+  },
+  {
+    "gt": "google/gsoc2014/bookie",
+    "link": "https://docs.google.com/document/d/1F51s9_faKf_GraKthtT0mCsQQvu-LMdnLwlliSZ3rJ4/edit?usp=sharing",
+    "name": "Bookie",
+    "tags": ["python javascript bookmarks"]
+  },
+  {
+    "gt": "google/gsoc2014/boostcpp",
+    "link": "https://svn.boost.org/trac/boost/wiki/SoC2014",
+    "name": "Boost C++ Libraries",
+    "tags": ["c++", "boost", "peer-reviewed", "portable", "libraries", "c++11", "c++14", "c++0x", "c++0y"]
+  },
+  {
+    "gt": "google/gsoc2014/brlcad",
+    "link": "http://brlcad.org/wiki/Google_Summer_of_Code/Project_Ideas",
+    "name": "BRL-CAD",
+    "tags": ["computer graphics", "scientific computing", "engineering analysis", "visualization", "cad", "csg", "smp", "signal processing", "3d", "engine", "3d modeling", "benchmark", "raytracing", "image processing", "graphics", "framebuffer", "geometry conversion", "computer vision", "computer-aided design", "symmetric multiprocessing", "geometry", "brlcad", "ray tracing", "constructive solid geometry", "analysis", "graphics conversion", "mesh", "solid modeling", "web development", "high-perforamnce computing", "math", "science", "tcl", "c", "c++", "qt", "android", "opencl", "gpgpu"]
+  },
+  {
+    "gt": "google/gsoc2014/buildbot",
+    "link": "http://trac.buildbot.net/wiki/ProjectIdeas",
+    "name": "Buildbot",
+    "tags": ["python", "twisted", "continuous-integration", "ci", "releng", "testing", "angularjs", "web"]
+  },
+  {
+    "gt": "google/gsoc2014/buildmlearn",
+    "link": "https://github.com/BuildmLearn/BuildmLearn-Toolkit/wiki/Google-Summer-of-Code-2014-Ideas",
+    "name": "BuildmLearn",
+    "tags": ["qt", "c++", "python", "git", "android", "windows phone", "iphone", "mlearning"]
+  },
+  {
+    "gt": "google/gsoc2014/buildroot",
+    "link": "http://elinux.org/Buildroot:GSoC2014Ideas",
+    "name": "Buildroot",
+    "tags": [""]
+  },
+  {
+    "gt": "google/gsoc2014/bbauv1",
+    "link": "http://www.bbauv.com/bbauv-ideas-list-for-google-summer-of-code/",
+    "name": "BumbleBee Autonomous Underwater Vehicle (BBAUV)",
+    "tags": ["autonomous", "computer vision", "laser", "python", "opencv", "c/c++", "ros", ""]
+  },
+  {
+    "gt": "google/gsoc2014/catrobat",
+    "link": "http://developer.catrobat.org/gsoc_2014_ideas_page",
+    "name": "Catrobat (formerly Catroid Project)",
+    "tags": ["android", "tdd", "scratch", "robotium", "agile", "children", "educational", "web interface", "selenium", "pedagogical", "html", "music", "web development", "web 2.0", "javascript", "js", "html5", "php", "animation", "kids", "programming", "ide", "usability"]
+  },
+  {
+    "gt": "google/gsoc2014/ccextractor",
+    "link": "http://ccextractor.sourceforge.net/gsoc2014.html",
+    "name": "CCExtractor development",
+    "tags": ["c", "c++", "video", "mpeg", "h264", "accesibility", "subtitles", "closed captions", "teletext", "ffmpeg", "network", "multithreading", "linux", "low level", "ccextractor"]
+  },
+  {
+    "gt": "google/gsoc2014/ccm",
+    "link": "https://gsoc.ccm.sickkids.ca/",
+    "name": "Centre for Computational Medicine, SickKids Research Institute",
+    "tags": ["computational medicine", "big data", "visualization", "java", "javascript", "medicine"]
+  },
+  {
+    "gt": "google/gsoc2014/ceph",
+    "link": "http://ceph.com/gsoc2014/",
+    "name": "Ceph",
+    "tags": ["ceph", "inktank", "storage", "distributed"]
+  },
+  {
+    "gt": "google/gsoc2014/cernsft",
+    "link": "http://sftweb.cern.ch/gsoc14",
+    "name": "CERN SFT",
+    "tags": [""]
+  },
+  {
+    "gt": "google/gsoc2014/checkstyle",
+    "link": "https://github.com/checkstyle/checkstyle/wiki/Checkstyle-GSoC-2014-Project-Ideas",
+    "name": "Checkstyle",
+    "tags": ["java", "static code analyse", "checkstyle"]
+  },
+  {
+    "gt": "google/gsoc2014/civicrm",
+    "link": "http://wiki.civicrm.org/confluence/display/CRM/Google+Summer+of+Code+-+2014",
+    "name": "CiviCRM",
+    "tags": ["crm", "drupal", "wordpress", "joomla", "php", "sql", "mysql", "jquery", "symfony", "bootstrap", "popcorn.js", "data visualization", "geo", "geospatial", "choropleths", "video"]
+  },
+  {
+    "gt": "google/gsoc2014/clojure",
+    "link": "http://dev.clojure.org/display/community/Project+Ideas",
+    "name": "Clojure",
+    "tags": ["clojure", "lisp", "functional programming"]
+  },
+  {
+    "gt": "google/gsoc2014/codecombat",
+    "link": "https://github.com/codecombat/codecombat/wiki/Summer-Project-Ideas-List",
+    "name": "CodeCombat",
+    "tags": ["coffeescript", "programming", "game", "learn to code", "education", "javascript", "html5", "compilers", "physics", "algorithms", "multiplayer"]
+  },
+  {
+    "gt": "google/gsoc2014/codemirror",
+    "link": "https://github.com/marijnh/CodeMirror/wiki/GSOC-2014-Ideas",
+    "name": "CodeMirror",
+    "tags": ["javascript", "editor", "browser", "code", "highlighting"]
+  },
+  {
+    "gt": "google/gsoc2014/cse_tuwien",
+    "link": "http://www.iue.tuwien.ac.at/cse/index.php/gsoc/2014.html",
+    "name": "Computational Science and Engineering at TU Wien",
+    "tags": ["cse", "java", "c++", "r", "xml", "qt", "network services", "data encoding", "knx", "geospatial data analysis", "vector graphics", "internet of things", "embedded systems", "monitoring system", "database", "sql", "image viewer", "raw images", "particle-in-cell simulator", "formal proof compression", "mathematical logic", "gpu computing", "mathematics", "linear algebra", "blas", "opencl", "cuda", "mesh generation", "mesh adaption", "device simulation", "tcad", "imputation methods"]
+  },
+  {
+    "gt": "google/gsoc2014/copyleftgames",
+    "link": "http://gsoc.copyleftgames.org/",
+    "name": "Copyleft Games",
+    "tags": [""]
+  },
+  {
+    "gt": "google/gsoc2014/coreboot",
+    "link": "http://www.coreboot.org/Project_Ideas",
+    "name": "coreboot",
+    "tags": ["firmware", "assembler", "hardware", "drivers", "emulator", "bios", "efi", "x86", "arm"]
+  },
+  {
+    "gt": "google/gsoc2014/cryptostick",
+    "link": "https://www.assembla.com/spaces/cryptostick/wiki/Ideas",
+    "name": "Crypto Stick",
+    "tags": ["security", "encryption", "cryptography", "hardware", "usb", "two-factor authentication", "otp", "oath", "openpgp", "gnupg"]
+  },
+  {
+    "gt": "google/gsoc2014/crystal",
+    "link": "http://www.crystalspace3d.org/trac/CS/wiki/SoC%20Ideas",
+    "name": "Crystal Space",
+    "tags": ["3d engine", "game engine", "c++", "opengl", "bullet", "game logic", "cross platform", "python", "animation", "landscape", "particles", "rendering", "simulation", "3d", "opengles"]
+  },
+  {
+    "gt": "google/gsoc2014/dbpediaspotlight",
+    "link": "http://wiki.dbpedia.org/gsoc2014/ideas",
+    "name": "DBpedia & DBpedia Spotlight",
+    "tags": ["semantic web", "entity linking", "linked data", "knowledge extraction", "wikipedia", "wikidata", "machine learning", "java", "scala", "disambiguation", "term recognition", "nlp"]
+  },
+  {
+    "gt": "google/gsoc2014/debian",
+    "link": "https://wiki.debian.org/SummerOfCode2014/Projects",
+    "name": "Debian Project",
+    "tags": ["os", "linux", "distributions", "web", "qa", "quality_assurance", "shell_scripting", "web_development", "python", "bsd", "php", "distribution", "bash", "c", "operating_system", "database", "science", "debian", "c++", "sh", "security", "continuous_integration"]
+  },
+  {
+    "gt": "google/gsoc2014/django",
+    "link": "https://code.djangoproject.com/wiki/SummerOfCode2014",
+    "name": "Django Software Foundation",
+    "tags": ["django", "python"]
+  },
+  {
+    "gt": "google/gsoc2014/drmemory",
+    "link": "http://drmemory.org/projects.html",
+    "name": "Dr. Memory",
+    "tags": ["instrumentation", "windows", "c", "c++", "assembly", "debugger", "program analysis", "development tools", "runtime systems"]
+  },
+  {
+    "gt": "google/gsoc2014/drupal",
+    "link": "https://groups.drupal.org/node/407793",
+    "name": "Drupal",
+    "tags": ["php", "cms", "database", "drupal 8", "symfony", "web development", "web programming", "web application", "web framework", "sql", "object oriented programming", ""]
+  },
+  {
+    "gt": "google/gsoc2014/flowgrammable",
+    "link": "http://flowgrammable.org/gsoc/projects/",
+    "name": "Flowgrammable",
+    "tags": ["c++11", "openflow", "software defined networking", "protocol stacks", "sdn"]
+  },
+  {
+    "gt": "google/gsoc2014/fossasia",
+    "link": "http://blog.fossasia.org/",
+    "name": "FOSSASIA",
+    "tags": ["android", "mobile", "pattern", "garment", "cad", "social change", "humanitarian software", "linux", "localization", "android", "web"]
+  },
+  {
+    "gt": "google/gsoc2014/freebsd",
+    "link": "https://wiki.freebsd.org/SummerOfCode2014Ideas",
+    "name": "FreeBSD",
+    "tags": ["virtualization", "hypervisor", "os", "operating system", "bsd", "web", "compilers", "qa", "perl", "shell_scripting", "shell scripting", "server", "embedded", "mips", "arm", "sparc", "sparc64", "i386", "amd", "amd64", "x86_64", "distribution", "c", "operating_system", "database", "pcbsd", "freebsd", "c++", "sh", "security", "clang", "llvm", "audit", "wireless", "wifi", "wi-fi", "desktop", "server", "sandbox", "kernel"]
+  },
+  {
+    "gt": "google/gsoc2014/freenet",
+    "link": "https://wiki.freenetproject.org/Google_Summer_of_Code/2014",
+    "name": "Freenet Project Inc",
+    "tags": ["freenet", "anonymity", "p2p", "decentralized", "java"]
+  },
+  {
+    "gt": "google/gsoc2014/freifunk",
+    "link": "http://wiki.freifunk.net/Ideas",
+    "name": "Freifunk",
+    "tags": ["wifi", "mesh", "community network", "openwrt", "routing protocols", "network", "batman", "olsr", "bmx", "linux", "javascript", "lua", "web", "mobile", "android", "local internet"]
+  },
+  {
+    "gt": "google/gsoc2014/frenetic",
+    "link": "https://github.com/frenetic-lang/frenetic/wiki/GSoC-2014-Project-Ideas",
+    "name": "Frenetic",
+    "tags": ["sdn", "software defined networking", "ocaml", "python", "research", "networking", "engineering", "programming languages", "functional programming"]
+  },
+  {
+    "gt": "google/gsoc2014/gambit",
+    "link": "http://www.gambit-project.org/gambit14/ideas.html",
+    "name": "Gambit: Software Tools for Game Theory",
+    "tags": ["c++", "python", "git", "numerical methods"]
+  },
+  {
+    "gt": "google/gsoc2014/ganeti",
+    "link": "http://code.google.com/p/ganeti/wiki/SummerOfCode2014Ideas",
+    "name": "Ganeti",
+    "tags": ["ganeti", "haskell", "python", "xen", "kvm", "virtualization", "cloud", "cluster"]
+  },
+  {
+    "gt": "google/gsoc2014/ganglia",
+    "link": "https://github.com/ganglia/monitor-core/wiki/GSoC-2014-project-ideas",
+    "name": "Ganglia",
+    "tags": ["c", "python", "java", "javascript", "jquery", "php", "monitoring", "hpc", "grid", "cluster", "nagios", "data science", "big data", "rrdtool", "r", "machine learning", "statistics"]
+  },
+  {
+    "gt": "google/gsoc2014/gcc",
+    "link": "http://gcc.gnu.org/wiki/SummerOfCode",
+    "name": "GCC - GNU Compiler Collection",
+    "tags": ["gcc", "compiler", "c", "c++", "toolchain", "glibc", "binutils", "gdb"]
+  },
+  {
+    "gt": "google/gsoc2014/gentoo",
+    "link": "http://wiki.gentoo.org/index.php?title=Google_Summer_of_Code/2014/Ideas",
+    "name": "Gentoo Foundation",
+    "tags": ["virtualization", "linux", "distributions", "xml", "web", "java", "gtk", "shell_scripting", "web_development", "xslt", "python", "web-interface", "javascript", "bsd", "php", "ruby", "bash", "c", "operating_system", "qt", "database", "science", "c++", "sh", "security"]
+  },
+  {
+    "gt": "google/gsoc2014/git",
+    "link": "http://git.github.io/SoC-2014-Ideas.html",
+    "name": "Git",
+    "tags": ["vcs", "c", "git"]
+  },
+  {
+    "gt": "google/gsoc2014/gnome",
+    "link": "https://wiki.gnome.org/Outreach/SummerOfCode/2014/Ideas",
+    "name": "GNOME",
+    "tags": ["application", "banshee", "boxes", "c", "clutter", "desktop", "easytag", "game", "glib", "gnome", "gnome-shell", "gnu", "gobject", "gtk", "gtk+", "gtg", "gstreamer", "desktop", "evolution", "javascript", "latex", "linux", "mail", "music", "python", "vala", "virtual", "wayland"]
+  },
+  {
+    "gt": "google/gsoc2014/gnss_sdr",
+    "link": "http://gnss-sdr.org/documentation/google-summer-code-2014-ideas-list",
+    "name": "GNSS-SDR",
+    "tags": ["gnss", "software radio", "gps", "galileo"]
+  },
+  {
+    "gt": "google/gsoc2014/octave",
+    "link": "http://wiki.octave.org/Summer_of_Code_Project_Ideas",
+    "name": "GNU Octave",
+    "tags": ["c++", "mathematics", "math", "numerical", "matlab", "mercurial", "scientific", "computing"]
+  },
+  {
+    "gt": "google/gsoc2014/gnu",
+    "link": "http://www.gnu.org/software/soc-projects/ideas-2014.html",
+    "name": "GNU Project",
+    "tags": ["c", "python", "metalink", "tests", "networking", "p2p", "distributed updates", "social", "multicast", "decentralisation", "censorship-resistance", "cad", "dwg", "dxf", "c", "common lisp", "ffi", "embedded interpreter", "wrapper libraries", "c", "hurd", "gnumach", "kernel", "microkernel", "operating system", "os", "filesystem", "virtualization", "glibc", "gdb", "valgrind", "language bindings", "automated testing", "package management", "operating system", "functional programming", "scheme", "objective-c", "ui", "user interface", "c++", "parser", "geometry"]
+  },
+  {
+    "gt": "google/gsoc2014/gnuradio",
+    "link": "http://gnuradio.org/redmine/projects/gnuradio/wiki/GSoC",
+    "name": "GNU Radio",
+    "tags": ["software defined radio", "networks", "communication"]
+  },
+  {
+    "gt": "google/gsoc2014/ospo",
+    "link": "http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page#16._What_if_there_is_no_organization",
+    "name": "Google Open Source Programs Office",
+    "tags": ["research", "google", "open source programs office"]
+  },
+  {
+    "gt": "google/gsoc2014/grameenfoundation",
+    "link": "http://www.motechproject.org/contribute/gsoc.html",
+    "name": "Grameen Foundation - MOTECH",
+    "tags": ["mhealth", "mobile", "java", "maternal_child_health", "hiv_aids", "tb", "ict4d", "africa", "india"]
+  },
+  {
+    "gt": "google/gsoc2014/groovy_project_community",
+    "link": "http://groovy.codehaus.org/GSoc+2014",
+    "name": "Groovy Community",
+    "tags": ["groovy", "language", "jvm", "java", "framework", "library"]
+  },
+  {
+    "gt": "google/gsoc2014/haiku",
+    "link": "http://www.haiku-os.org/community/gsoc/2014/ideas",
+    "name": "Haiku",
+    "tags": ["c++", "operating system", "c", "virtio", "usb", "driver", "kernel", "arm", "uefi", "filesystem", "ppp", "ipv6", "bluetooth", "gui", "compositing"]
+  },
+  {
+    "gt": "google/gsoc2014/haskell",
+    "link": "https://ghc.haskell.org/trac/summer-of-code/report/1",
+    "name": "haskell.org",
+    "tags": ["non-strict", "lazy", "functional", "programming language"]
+  },
+  {
+    "gt": "google/gsoc2014/dhis2",
+    "link": "http://www.dhis2.org/gsoc2014",
+    "name": "Health Information Systems Programme",
+    "tags": ["ehealth", "mhealth", "management information system", "health", "informatics", "java", "maven", "struts", "spring", "action-research", "medical records", "gis", "mapping", "africa", "asia", "latin america", "ict4d", "testing", "webdriver", "android"]
+  },
+  {
+    "gt": "google/gsoc2014/helenos",
+    "link": "http://www.helenos.org/gsoc2014",
+    "name": "HelenOS group at Department of Distributed and Dependable Systems, Charles University in Prague",
+    "tags": ["microkernel", "multiserver", "os", "operating system", "operating", "system", "helenos", "kernel", "ipc", "c"]
+  },
+  {
+    "gt": "google/gsoc2014/illumos",
+    "link": "http://wiki.illumos.org/display/illumos/Project+Ideas",
+    "name": "illumos",
+    "tags": ["illumos", "operating system", "unix", "kernel", "dtrace", "zfs", "openzfs", "virtualization", "device driver", "c", "python", "c++", "solaris"]
+  },
+  {
+    "gt": "google/gsoc2014/idi_idrc",
+    "link": "http://wiki.atutor.ca/display/atutorwiki/Google+Summer+of+Code+2014",
+    "name": "Inclusive Design Institute",
+    "tags": ["accessibility", "technology", "software", "open source", "atutor", "fluid", "achecker", "acontent"]
+  },
+  {
+    "gt": "google/gsoc2014/inkscape",
+    "link": "http://wiki.inkscape.org/wiki/index.php/Google_Summer_Of_Code#Suggested_Ideas",
+    "name": "Inkscape",
+    "tags": ["svg", "css", "vector graphics", "geometry", "c++", "gtk", "gtkmm"]
+  },
+  {
+    "gt": "google/gsoc2014/iai_unihb_gsoc",
+    "link": "http://ai.uni-bremen.de/teaching/gsoc2014",
+    "name": "Institute for Artificial Intelligence",
+    "tags": ["ai", "robots"]
+  },
+  {
+    "gt": "google/gsoc2014/incf",
+    "link": "http://incf.org/gsoc/2014/proposals",
+    "name": "International Neuroinformatics Coordinating Facility",
+    "tags": ["neuroinformatics", "neuroscience"]
+  },
+  {
+    "gt": "google/gsoc2014/marsoc",
+    "link": "http://www.erasproject.org/index.php?option=com_content&view=article&id=12&Itemid=104",
+    "name": "Italian Mars Society ",
+    "tags": ["terrestrial mars analogs", "autonomous control", "human machine interface (hmi)", "virtual reality applications", "computer vision", "command", "control and communication", "python", "pytango"]
+  },
+  {
+    "gt": "google/gsoc2014/jboss",
+    "link": "https://community.jboss.org/wiki/GSOC14Ideas",
+    "name": "JBoss Community",
+    "tags": ["jboss", "java", "javaee", "rest", "mobile", "ruby", "scala", "security"]
+  },
+  {
+    "gt": "google/gsoc2014/jitsi",
+    "link": "https://jitsi.org/gsoc",
+    "name": "Jitsi",
+    "tags": ["jitsi", "audio", "video", "java", "sip", "xmpp", "rtp", "webrtc", "javascript", "html5"]
+  },
+  {
+    "gt": "google/gsoc2014/jmonkeyengine",
+    "link": "http://hub.jmonkeyengine.org/soc/2014-ideas/",
+    "name": "jMonkeyEngine",
+    "tags": ["game engine", "3d", "game", "game development", "graphics", "netbeans", "ide", "sdk", "java"]
+  },
+  {
+    "gt": "google/gsoc2014/joomla",
+    "link": "http://docs.joomla.org/GSOC_2014_Project_Ideas",
+    "name": "Joomla! (Open Source Matters)",
+    "tags": ["joomla", "framework", "php", "libraries", "packagist", "composer", ""]
+  },
+  {
+    "gt": "google/gsoc2014/kde",
+    "link": "http://community.kde.org/GSoC/2014/Ideas",
+    "name": "KDE",
+    "tags": ["accessibility", "audio", "browser", "c++", "desktop", "education", "games", "linux", "mac", "music", "office", "pim", "qt", "sdk", "semantic", "windows"]
+  },
+  {
+    "gt": "google/gsoc2014/kolibrios",
+    "link": "http://wiki.kolibrios.org/wiki/Google_Summer_of_Code_2014",
+    "name": "KolibriOS Project Team",
+    "tags": ["fasm", "assembly language", "assembler", "kolibrios", "os", "operating system", "drivers", "hardware", "bios", "x86", "i386", "embedded", "rtos", "real-time", "realtime", "lowlevel", "desktop"]
+  },
+  {
+    "gt": "google/gsoc2014/lablua",
+    "link": "http://www.lua.inf.puc-rio.br/gsoc/ideas2014.html",
+    "name": "LabLua",
+    "tags": ["lua lablua"]
+  },
+  {
+    "gt": "google/gsoc2014/lcdm",
+    "link": "http://lcdm.astro.illinois.edu/ugprojects.html",
+    "name": "Laboratory for Cosmological Data Mining",
+    "tags": ["cosmology", "astrophysics", "data mining", "machine learning", "cloud computing", "computer vision", "image processing", "web application", "mobile application", "crowdsource", "bayesian modeling"]
+  },
+  {
+    "gt": "google/gsoc2014/leap",
+    "link": "https://leap.se/en/docs/get-involved/project-ideas",
+    "name": "LEAP Encryption Access Project",
+    "tags": ["openpgp", "email", "openvpn", "python", "ruby", "android"]
+  },
+  {
+    "gt": "google/gsoc2014/libreoffice",
+    "link": "https://wiki.documentfoundation.org/Development/Gsoc/Ideas",
+    "name": "LibreOffice",
+    "tags": ["office", "c++", "word processor", "spreadsheet", "presentation", "database", "drawing", "android", "ios"]
+  },
+  {
+    "gt": "google/gsoc2014/linaro",
+    "link": "https://wiki.linaro.org/SummerOfCode2014/ProjectIdeas",
+    "name": "Linaro",
+    "tags": ["linux", "arm", "open", "networking", "enterprise", "toolchain", "graphics", "multimedia", "android"]
+  },
+  {
+    "gt": "google/gsoc2014/lttng",
+    "link": "http://bugs.lttng.org/projects/lttng/wiki/Google_Summer_of_Code_2014",
+    "name": "Linux Trace Toolkit next generation project (LTTng)",
+    "tags": ["tracing", "linux", "android", "arm", "c", "c++", "python", "kernel internals"]
+  },
+  {
+    "gt": "google/gsoc2014/lg",
+    "link": "http://code.google.com/p/liquid-galaxy/wiki/GSoC2014Ideas",
+    "name": "Liquid Galaxy Project",
+    "tags": ["google earth", "immersive", "3d", "virtual reality", "html5", "google maps", "kml", "geospatial", "gis", "3d graphics", "panoramic", "visualization", "game engines", "linux", "android", "kinect", "leap motion"]
+  },
+  {
+    "gt": "google/gsoc2014/llvm",
+    "link": "http://llvm.org/OpenProjects.html",
+    "name": "LLVM Compiler Infrastructure",
+    "tags": ["llvm", "clang", "compiler", "backend", "optimization"]
+  },
+  {
+    "gt": "google/gsoc2014/lmonade",
+    "link": "http://wiki.lmona.de/get_involved/gsoc",
+    "name": "lmonade: scientific software distribution",
+    "tags": ["math", "mathematics", "algebra", "science", "scientific software", "distribution", "package", "image", "image processing", "vision", "bio", "graphics", "geometry", "3d", "opengl", "qt", "learning", "graph", "parallel", "threads", "openmp", "c++", "cpp", "python", "java", "shell", "sh", "bash", "scripting", "lmonade", "flint", "ilastik", "vigra", "fricas", "singular", "polybori", "aldor"]
+  },
+  {
+    "gt": "google/gsoc2014/lyx",
+    "link": "http://wiki.lyx.org/GSoC/GSoCProjectIdeasFor2014",
+    "name": "LyX \u2013 The Document Processor ",
+    "tags": ["document processor", "word processor", "latex", "gui", "qt"]
+  },
+  {
+    "gt": "google/gsoc2014/mariadb",
+    "link": "https://mariadb.com/kb/en/google-summer-of-code-2014/",
+    "name": "MariaDB",
+    "tags": ["mariadb", "mysql", "database", "sql"]
+  },
+  {
+    "gt": "google/gsoc2014/m_lab",
+    "link": "http://www.measurementlab.net/page/gsoc_2014",
+    "name": "Measurement Lab (M-Lab)",
+    "tags": ["open data", "measurement", "networking", "transparancy"]
+  },
+  {
+    "gt": "google/gsoc2014/melange",
+    "link": "https://code.google.com/p/soc/wiki/GSoC2014Ideas",
+    "name": "Melange",
+    "tags": ["appengine", "python", "javascript", "css", "less", "html"]
+  },
+  {
+    "gt": "google/gsoc2014/metabrainz",
+    "link": "http://wiki.musicbrainz.org/Development/Summer_of_Code/2014",
+    "name": "MetaBrainz Foundation Inc.",
+    "tags": ["music", "metadata", "linux", "sql", "perl", "python", "id3"]
+  },
+  {
+    "gt": "google/gsoc2014/mifos",
+    "link": "http://mifosforge.jira.com/wiki/display/RES/Google+Summer+of+Code+2014+Ideas",
+    "name": "Mifos Initiative",
+    "tags": ["mifos", "microfinance", "financial inclusion", "africa", "mobile banking", "java", "angularjs", "india", "m-pesa", "ict4d", "socent", "poverty", "restful", "mysql", "spring", "pentaho", "android", "grameen", "microcredit", "banking", "financial services", "m4d", ""]
+  },
+  {
+    "gt": "google/gsoc2014/mixxx",
+    "link": "http://mixxx.org/wiki/doku.php/gsoc2014ideas",
+    "name": "Mixxx DJ Software",
+    "tags": ["dj", "audio", "music", "qt", "c++", "realtime"]
+  },
+  {
+    "gt": "google/gsoc2014/mlpack",
+    "link": "http://www.mlpack.org/trac/wiki/SummerOfCodeIdeas",
+    "name": "mlpack: scalable C++ machine learning library",
+    "tags": ["c++", "machine learning", "dual-tree algorithms", "scalability"]
+  },
+  {
+    "gt": "google/gsoc2014/monkey",
+    "link": "http://monkey-project.com/gsoc2014/ideas",
+    "name": "Monkey Project",
+    "tags": ["c", "linux", "raspberry", "http", "spdy", "websocket", "caching", "webservices", "performance", "embedded", "arm", "lua", "memcache"]
+  },
+  {
+    "gt": "google/gsoc2014/mono",
+    "link": "http://www.mono-project.com/StudentProjects",
+    "name": "Mono Project",
+    "tags": ["c#", "c", "c++", "mono", "vm", "gc", "runtime", "monodevelop", "gtk", "osx", "linux", "windows"]
+  },
+  {
+    "gt": "google/gsoc2014/moodle",
+    "link": "http://docs.moodle.org/dev/Projects_for_new_developers",
+    "name": "Moodle",
+    "tags": ["education", "learning", "teaching", "primary", "secondary", "tertiary", "university", "lms", "cms", "vle", "lp php"]
+  },
+  {
+    "gt": "google/gsoc2014/mozilla",
+    "link": "https://wiki.mozilla.org/Community:SummerOfCode14",
+    "name": "Mozilla",
+    "tags": ["mozilla", "firefox", "thunderbird", "c++", "python", "perl", "javascript", "html", "css", "xul", "web", "calendar", "instantbird", "im", "documentation", "audio", "rust", "llvm", "node", "design", "ux", "xpcom"]
+  },
+  {
+    "gt": "google/gsoc2014/musescore",
+    "link": "http://musescore.org/en/developers-handbook/google-summer-code/ideas-2014",
+    "name": "MuseScore",
+    "tags": ["sheet music", "musicxml", "midi", "music notation", "qt", "c++", "qml"]
+  },
+  {
+    "gt": "google/gsoc2014/nrnb",
+    "link": "http://nrnb.org/gsoc/index.html#ideas-tab",
+    "name": "National Resource for Network Biology (NRNB)",
+    "tags": ["biology", "systems biology", "network biology", "networks", "pathways", "java", "javascript", "php", "mediawiki", "graph database", "biomedical", "chemistry", "cytoscape", "wikipathways", "pathvisio", "cytoscapejs", "pathvisiojs"]
+  },
+  {
+    "gt": "google/gsoc2014/netfilter",
+    "link": "http://people.netfilter.org/pablo/nf-ideas-2014.txt",
+    "name": "Netfilter Project",
+    "tags": ["linux", "networking", "firewall", "security", "packet classification"]
+  },
+  {
+    "gt": "google/gsoc2014/netsurf",
+    "link": "http://www.netsurf-browser.org/developers/gsoc/2014ideas",
+    "name": "NetSurf",
+    "tags": ["web browser", "c", "html", "css", "dom"]
+  },
+  {
+    "gt": "google/gsoc2014/nmap",
+    "link": "http://nmap.org/soc/",
+    "name": "Nmap Security Scanner",
+    "tags": ["security", "networking", "network", "ipv6", "lua", "c++", "c", "python", "gui", "linux", "windows", "apple", "mac os x", "packets", "hacking", "nmap", "cryptography", "crypto"]
+  },
+  {
+    "gt": "google/gsoc2014/ogdf",
+    "link": "http://www.ogdf.net/doku.php/gsoc2014-ideas",
+    "name": "OGDF - Open Graph Drawing Framework",
+    "tags": ["graph drawing", "graph algorithms", "algorithms", "data structures", "visualization", "c++", "python", "java"]
+  },
+  {
+    "gt": "google/gsoc2014/obf",
+    "link": "http://www.open-bio.org/wiki/Google_Summer_of_Code_2014_Ideas",
+    "name": "Open Bioinformatics Foundation",
+    "tags": ["obf", "bioinformatics", "biology", "science", "bioperl", "biopython", "bioruby", "biojava", "biosql", "biolib", "emboss"]
+  },
+  {
+    "gt": "google/gsoc2014/oerf",
+    "link": "http://WikiEducator.org/WikiEducator:Software_Projects",
+    "name": "Open Education Resource Foundation",
+    "tags": ["education", "open", "wiki", "oeru"]
+  },
+  {
+    "gt": "google/gsoc2014/openlighting",
+    "link": "http://www.opendmx.net/index.php/OLA_SOC_Ideas_Page",
+    "name": "Open Lighting Project",
+    "tags": ["c++", "lighting", "python", "dmx512", "rdm", "control-systems", "network"]
+  },
+  {
+    "gt": "google/gsoc2014/ompl",
+    "link": "http://kavrakilab.org/GSoC2014.html",
+    "name": "Open Motion Planning Library",
+    "tags": ["robotics", "motion planning"]
+  },
+  {
+    "gt": "google/gsoc2014/opencv",
+    "link": "http://code.opencv.org/projects/opencv/wiki/GSoC_2014",
+    "name": "Open Source Computer Vision Library (OpenCV)",
+    "tags": ["computer vision", "machine learning", "ai", "perception", "learning"]
+  },
+  {
+    "gt": "google/gsoc2014/osrf",
+    "link": "http://wiki.osrfoundation.org/gsoc14",
+    "name": "Open Source Robotics Foundation",
+    "tags": ["robotics", "gazebo", "ros", "cloudsim"]
+  },
+  {
+    "gt": "google/gsoc2014/openpgp_keychain",
+    "link": "https://github.com/open-keychain/open-keychain/wiki/Google-Summer-of-Code",
+    "name": "OpenKeychain (OpenPGP for Android)",
+    "tags": ["android", "java", "pgp", "openpgp", "gpg", "security", "encryption", "snowden"]
+  },
+  {
+    "gt": "google/gsoc2014/openmrs",
+    "link": "http://go.openmrs.org/soc2014",
+    "name": "OpenMRS",
+    "tags": ["medical_records", "health", "clinics", "ehealth", "hospitals", "hfoss", "healthcare", "emr", "ehr", "hl7", "mhealth", "africa", "developing_world", "poverty", "global_health", "dojo", "spring", "api", "mysql", "internationalization", "l8n", "mrs", "i10n", "openmrs", "hr", "human_resources", "xml", "hibernate", "localization", "search", "localisation", "statistics", "java", "maven", "ict4d", "phr", "tomcat", "database", "internationalisation", "html5", "node", "nodejs", "ldap", "express", "groovy"]
+  },
+  {
+    "gt": "google/gsoc2014/opensuse",
+    "link": "https://en.opensuse.org/openSUSE:GSOC_ideas",
+    "name": "openSUSE",
+    "tags": ["linux", "obs", "build-service", "kernel", "osem", "git", "cloud", "kiwi", "packaging", "mate", "virtualization", "ruby"]
+  },
+  {
+    "gt": "google/gsoc2014/osuosl",
+    "link": "http://wiki.osuosl.org/gsoc/ideas2014.html",
+    "name": "Oregon State University Open Source Lab (OSUOSL)",
+    "tags": ["virtualization", "kvm", "xen", "django", "osuosl", "ganeti", "ganeti web manager", "gwm", "python", "bash"]
+  },
+  {
+    "gt": "google/gsoc2014/osgeo",
+    "link": "http://wiki.osgeo.org/wiki/Google_Summer_of_Code_2014_Ideas",
+    "name": "OSGeo - Open Source Geospatial Foundation",
+    "tags": ["postgres", "c", "gis", "live-disc", "algorithm", "java", "c#", "graph", "javascript", "mapping", "maps", "c++", "ajax", "geospatial", "mysql", "http", "php", "geo", "mssql", "3d", "osm", "openstreetmap", "cartography", "science"]
+  },
+  {
+    "gt": "google/gsoc2014/osv",
+    "link": "https://github.com/cloudius-systems/osv/wiki/Google-Summer-of-Code-2014",
+    "name": "OSv",
+    "tags": ["kernel", "cloud", "virtualization"]
+  },
+  {
+    "gt": "google/gsoc2014/ovirt",
+    "link": "http://www.ovirt.org/Summer_of_Code",
+    "name": "oVirt",
+    "tags": ["ovirt", "cloud", "virtualization", "iaas", "kvm", "libivrt", "datacenter", "private cloud", "python", "java", "jboss", "wildfly", "postgres"]
+  },
+  {
+    "gt": "google/gsoc2014/owasp",
+    "link": "https://www.owasp.org/index.php/GSoC2014_Ideas",
+    "name": "OWASP Foundation",
+    "tags": ["appsec", "security", "application security", "sdlc", "secure devlopment"]
+  },
+  {
+    "gt": "google/gsoc2014/phpbb",
+    "link": "https://wiki.phpbb.com/GSoC/2014/Ideas",
+    "name": "phpBB Forum Software",
+    "tags": ["forum", "bulletin", "board", "php", "webdesign. community", "web"]
+  },
+  {
+    "gt": "google/gsoc2014/phpmyadmin",
+    "link": "http://wiki.phpmyadmin.net/pma/GSoC_2014_Ideas_List",
+    "name": "phpMyAdmin",
+    "tags": ["mysql", "php", "admin", "javascript", "jquery"]
+  },
+  {
+    "gt": "google/gsoc2014/plan9",
+    "link": "http://www.plan9.bell-labs.com/wiki/plan9/gsoc-2014-ideas/index.html",
+    "name": "Plan 9 from Bell Labs",
+    "tags": ["9p", "os", "operating system", "c", "limbo", "styx", "distributed computing", "network computing"]
+  },
+  {
+    "gt": "google/gsoc2014/plone",
+    "link": "http://plone.org/events/summer-of-code/2014",
+    "name": "Plone Foundation",
+    "tags": ["cms", "python", "web"]
+  },
+  {
+    "gt": "google/gsoc2014/pcl",
+    "link": "http://www.pointclouds.org/gsoc/",
+    "name": "Point Cloud Library (PCL)",
+    "tags": ["point cloud", "image", "computer vision", "vision", "machine vision", "computer graphics", "registration", "segmentation", "camera", "3d camera", "kinect", "xtion"]
+  },
+  {
+    "gt": "google/gsoc2014/portland_state",
+    "link": "http://summer.cs.pdx.edu/ideas",
+    "name": "Portland State University",
+    "tags": ["university", "new projects", "individual projects"]
+  },
+  {
+    "gt": "google/gsoc2014/postgresql",
+    "link": "http://www.postgresql.org/developer/summerofcode",
+    "name": "PostgreSQL Project",
+    "tags": ["database", "postgres", "postgresql", "c", "c++", "php", "perl", "python", "java", "sql"]
+  },
+  {
+    "gt": "google/gsoc2014/prismmodelchecker",
+    "link": "http://www.prismmodelchecker.org/gsoc/",
+    "name": "PRISM Model Checker",
+    "tags": ["scientific", "verification", "model checking", "probabilistic models", "java"]
+  },
+  {
+    "gt": "google/gsoc2014/tox",
+    "link": "http://wiki.tox.im/Proposed_Google_Summer_of_Code_ideas",
+    "name": "Project Tox",
+    "tags": ["skype", "secure", "communications", "messaging", "im", "disibuted", "hash table", "decentralized", "encryption", "chatting", "free", "gpl", "c", "c++", "gtk", "qt", "android", "ios", "udp", "tcp"]
+  },
+  {
+    "gt": "google/gsoc2014/publiclaboratory",
+    "link": "http://publiclaboratory.org/wiki/gsoc-ideas",
+    "name": "Public Laboratory for Open Technology and Science",
+    "tags": ["geo", "gis", "open-source", "environment", "infrared", "spectroscopy", "map", "maps", "ruby-on-rails", "java", "canvass-element", "android", "ruby", "javascript", "imagemagick", "rmagick"]
+  },
+  {
+    "gt": "google/gsoc2014/python",
+    "link": "http://wiki.python.org/moin/SummerOfCode/2014",
+    "name": "Python Software Foundation",
+    "tags": ["python", "core python", "cpython", "astropy", "binpy", "gnu mailman", "kivy", "mercurial", "mne-python", "moinmoin wiki", "pgmpy", "pydy", "pypy", "scikit-image", "scikit-learn", "scipy/numpy", "scons", "scrapy", "statsmodels", "sunpy", "tardis-sn", "theano", "vispy"]
+  },
+  {
+    "gt": "google/gsoc2014/qemu",
+    "link": "http://qemu-project.org/Google_Summer_of_Code_2014",
+    "name": "QEMU",
+    "tags": ["emulator", "emulation", "virtualization", "lowlevel", "os", "bootloader", "compiler", "kernel", "kvm", "xen", "c"]
+  },
+  {
+    "gt": "google/gsoc2014/rproject",
+    "link": "http://rwiki.sciviews.org/doku.php?id=developers:projects:gsoc2014",
+    "name": "R Project for Statistical Computing",
+    "tags": [""]
+  },
+  {
+    "gt": "google/gsoc2014/raxa",
+    "link": "https://raxaemr.atlassian.net/wiki/display/RAXAJSS/GSoC+2014+Ideas+Page",
+    "name": "Raxa",
+    "tags": ["health", "mobile", "emr", "india"]
+  },
+  {
+    "gt": "google/gsoc2014/routeflow",
+    "link": "https://sites.google.com/site/routeflow/updates/gsoc-ideas",
+    "name": "RouteFlow",
+    "tags": ["routing", "virtualization", "cloud", "networking", "sdn", "openflow"]
+  },
+  {
+    "gt": "google/gsoc2014/rtems",
+    "link": "http://www.rtems.org/wiki/index.php/Open_Projects",
+    "name": "RTEMS Project",
+    "tags": ["rtos", "real time", "real-time", "operating system", "c", "posix", "embedded", "arm", "space", "control", "deadline", "smp", "multicore"]
+  },
+  {
+    "gt": "google/gsoc2014/rails",
+    "link": "https://github.com/rails/gsoc2014/wiki/Ideas",
+    "name": "Ruby on Rails",
+    "tags": ["ruby", "web", "rails"]
+  },
+  {
+    "gt": "google/gsoc2014/sciruby",
+    "link": "https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2014-Ideas",
+    "name": "Ruby Science Foundation (SciRuby)",
+    "tags": ["science", "c++", "ruby", "c", "statistics", "linear algebra", "data mining", "engineering"]
+  },
+  {
+    "gt": "google/gsoc2014/sagemath",
+    "link": "https://docs.google.com/document/d/15v7lXZR1U4H2pT21d2fyPduYGb74JAFjkXJ6CWYmYfw/pub",
+    "name": "Sage Mathematical Software System",
+    "tags": ["mathematics", "math", "python", "cython", "c", "cpp", "html", "javascript", "android", "ios"]
+  },
+  {
+    "gt": "google/gsoc2014/sahana",
+    "link": "https://docs.google.com/a/sahanafoundation.org/document/d/15GzwvZRI8SlYRUYzuqkPsjnLNMiBLtT6KqXgNR_GpAw/edit",
+    "name": "Sahana Software Foundation",
+    "tags": ["sahana", "python", "php", "disaster", "emergency", "response", "humanitarian"]
+  },
+  {
+    "gt": "google/gsoc2014/samba",
+    "link": "http://wiki.samba.org/index.php/SoC/Ideas",
+    "name": "Samba",
+    "tags": ["c", "smb", "cifs", "kernel"]
+  },
+  {
+    "gt": "google/gsoc2014/scaffoldhunter",
+    "link": "http://scaffoldhunter.sourceforge.net/wiki/doku.php?id=project_ideas",
+    "name": "Scaffold Hunter",
+    "tags": ["visual analytics", "information visualization", "graph drawing", "cheminformatics", "medical image retrieval", "java"]
+  },
+  {
+    "gt": "google/gsoc2014/epfl_scala",
+    "link": "http://www.scala-lang.org/gsoc/2014.html",
+    "name": "Scala Team",
+    "tags": ["scala"]
+  },
+  {
+    "gt": "google/gsoc2014/scummvm",
+    "link": "http://wiki.scummvm.org/index.php/GSoC_Ideas",
+    "name": "ScummVM",
+    "tags": ["scummvm", "residualvm", "multiplatform", "games", "adventures", "point and click", "2d", "3d", "play", "c++", "retro-gaming"]
+  },
+  {
+    "gt": "google/gsoc2014/shogun",
+    "link": "http://shogun-toolbox.org/page/Events/gsoc2014_ideas",
+    "name": "Shogun Machine Learning Toolbox",
+    "tags": ["machine learning", "science", "math", "statistics", "bioinformatics", "large scale learning", "support vector machine", "open source", "free software", "python", "c++", "d3js", "django", "swig"]
+  },
+  {
+    "gt": "google/gsoc2014/sigmah",
+    "link": "http://code.google.com/p/sigma-h/wiki/Ideas4GSoC2014",
+    "name": "Sigmah",
+    "tags": ["hfoss", "java", "gwt", "drupal", "project-management", "humanitarian"]
+  },
+  {
+    "gt": "google/gsoc2014/conservancy",
+    "link": "http://npoacct.sfconservancy.org/GSoC2014Ideas/",
+    "name": "Software Freedom Conservancy, Inc.",
+    "tags": ["npo", "non-profit", "accounting", "ledger"]
+  },
+  {
+    "gt": "google/gsoc2014/sbcl",
+    "link": "http://www.sbcl.org/gsoc2014/ideas/",
+    "name": "Steel Bank Common Lisp",
+    "tags": ["lisp", "compilation", "interpretation", "garbage collection", "object-orientation"]
+  },
+  {
+    "gt": "google/gsoc2014/strace",
+    "link": "http://sourceforge.net/p/strace/wiki/GoogleSummerOfCode2014/",
+    "name": "strace",
+    "tags": ["tracing", "strace", "c", "system-programming", "kernel", "system-call", "syscall"]
+  },
+  {
+    "gt": "google/gsoc2014/stratosphere",
+    "link": "https://github.com/stratosphere/stratosphere/wiki/Google-Summer-of-Code-2014",
+    "name": "Stratosphere Project",
+    "tags": ["java", "scala", "big data", "hadoop", "analytics", "distributed systems", "machine learning", "cloud computing"]
+  },
+  {
+    "gt": "google/gsoc2014/subsurface",
+    "link": "http://trac.hohndel.org/wiki/Subsurface_GSOC_2014_Idea_List",
+    "name": "Subsurface",
+    "tags": ["divelog", "c", "c++", "qt", "ios", "android"]
+  },
+  {
+    "gt": "google/gsoc2014/sugarlabs",
+    "link": "http://wiki.sugarlabs.org/go/Summer_of_Code/2014",
+    "name": "Sugar Labs",
+    "tags": ["learning", "software", "python", "gnome", "javascript", "html5"]
+  },
+  {
+    "gt": "google/gsoc2014/supertuxkart",
+    "link": "http://supertuxkart.sourceforge.net/GSoC_topics_2014",
+    "name": "SuperTuxKart",
+    "tags": ["games", "c++", "php", "racing", "multiplatform"]
+  },
+  {
+    "gt": "google/gsoc2014/smc",
+    "link": "http://wiki.smc.org.in/SoC/2014/Project_ideas",
+    "name": "Swathanthra Malayalam Computing",
+    "tags": ["language technology", "indic", "rendering", "i18n", "python", "flask", "android", "c++", "ror", "language modeling", "braille", "m17n", "machine learning", "rest api", "jquery", "spellcheck", "tex"]
+  },
+  {
+    "gt": "google/gsoc2014/sympy",
+    "link": "https://github.com/sympy/sympy/wiki/gsoc-2014-ideas",
+    "name": "SymPy",
+    "tags": ["math", "physics", "python", "science", "bsd"]
+  },
+  {
+    "gt": "google/gsoc2014/syncdiff",
+    "link": "http://syncdiff.org/p/syncdiff/page/GSoC-2014-Ideas/",
+    "name": "SyncDiff(erent)",
+    "tags": ["perl", "file synchronization", "multi-processed", "ipc", "networking", "cloud"]
+  },
+  {
+    "gt": "google/gsoc2014/systers",
+    "link": "https://github.com/systers/ossprojects/wiki/GSoC-2014",
+    "name": "Systers, an Anita Borg Institute Community",
+    "tags": ["systers", "anita borg institute", "women in technology", "women in computing"]
+  },
+  {
+    "gt": "google/gsoc2014/teammates",
+    "link": "http://tinyurl.com/teammates-ideas",
+    "name": "TEAMMATES Project @ National University of Singapore",
+    "tags": ["java", "app engine", "saas", "paas", "cloud", "education", "javaee", "javascript"]
+  },
+  {
+    "gt": "google/gsoc2014/cgal",
+    "link": "http://www.cgal.org/project_ideas.html",
+    "name": "The CGAL Project ",
+    "tags": ["c++", "computational geometry", "geometry processing", "voronoi", "meshing", "arrangement", "triangulation"]
+  },
+  {
+    "gt": "google/gsoc2014/concord",
+    "link": "http://concord.org/GSoC",
+    "name": "The Concord Consortium",
+    "tags": ["education", "nonprofit", "stem", "science", "math", "engineering", "simulations", "modeling", "mobile", "responsive web design", "javascript", "ruby", "html5", "webgl", "require.js", "d3", "coffeescript", "svg", "vows", "amazon web services", "capistrano", "sass", "haml", "webcl", "pixi.js", "agentscript", "agentbasedmodeling", "git", "github", "ipad", "android", "tablet", "mobile"]
+  },
+  {
+    "gt": "google/gsoc2014/eclipse",
+    "link": "https://wiki.eclipse.org/Google_Summer_of_Code_2014_Ideas",
+    "name": "The Eclipse Foundation",
+    "tags": ["eclipse", "java", "ide", "recommenders", "ecf", "communication", "development", "rcp", "orion", "javascript", "c/c++"]
+  },
+  {
+    "gt": "google/gsoc2014/fedora",
+    "link": "http://fedoraproject.org/wiki/Summer_coding_ideas_for_2014",
+    "name": "The Fedora Project ",
+    "tags": ["linux", "kernel", "php", "c", "bashc", "ruby", "python", "rails", "buildservices", "yum", "rpm", "distribution", "cloud"]
+  },
+  {
+    "gt": "google/gsoc2014/julialang",
+    "link": "http://julialang.org/gsoc/2014/",
+    "name": "The Julia Language",
+    "tags": ["programming languages", "numerical computing", "linear algebra", "statistics", "machine learning", "big data"]
+  },
+  {
+    "gt": "google/gsoc2014/lf",
+    "link": "https://www.linuxfoundation.org/collaborate/workgroups/gsoc/google-summer-code-2014",
+    "name": "The Linux Foundation",
+    "tags": ["kernel", "lsb", "web", "gui", "cpd", "standards", "wireless", "printing", "usability", "openprinting", "llvm", "llvmlinux"]
+  },
+  {
+    "gt": "google/gsoc2014/macports",
+    "link": "https://trac.macports.org/wiki/SummerOfCode",
+    "name": "The MacPorts Project",
+    "tags": ["macports", "mac", "os x", "osx", "mac os x", "c", "tcl", "dependencies", "sat", "sat-solving", "theory", "theoretical computer science", "xcode", "objective-c", "apple", "ld_preload", "sandbox", "optimization", "qt", "ports", "bsd", "package", "package management"]
+  },
+  {
+    "gt": "google/gsoc2014/ns3",
+    "link": "https://www.nsnam.org/wiki/index.php/GSOC2014Projects",
+    "name": "The ns-3 Network Simulator Project",
+    "tags": ["ns3", "network simulation", "emulation", "c", "c++", "python"]
+  },
+  {
+    "gt": "google/gsoc2014/openbsdfoundation",
+    "link": "http://www.openbsdfoundation.org/gsoc2014.html",
+    "name": "The OpenBSD Foundation",
+    "tags": ["openbsd", "openssh", "opencvs", "opensmtp", "openbgpd"]
+  },
+  {
+    "gt": "google/gsoc2014/opencog",
+    "link": "http://wiki.opencog.org/w/Ideas",
+    "name": "The OpenCog Foundation",
+    "tags": ["artificial intelligence", "ai", "c++", "python", "machine leaning", "nlp"]
+  },
+  {
+    "gt": "google/gsoc2014/openstack",
+    "link": "https://wiki.openstack.org/wiki/GSoC2014",
+    "name": "The OpenStack Foundation",
+    "tags": ["openstack", "cloud", "iaas"]
+  },
+  {
+    "gt": "google/gsoc2014/tpf",
+    "link": "http://wiki.enlightenedperl.org/gsoc2014/ideas",
+    "name": "The Perl Foundation",
+    "tags": ["perl", "parrot", "cpan"]
+  },
+  {
+    "gt": "google/gsoc2014/privly",
+    "link": "https://github.com/privly/privly-organization/wiki/Ideas",
+    "name": "The Privly Foundation",
+    "tags": ["privacy", "security", "cryptography", "browser extensions", "native client", "javascript", "otr", "irc", "pgp", "rails", "continuous integration", "testing", "user experience", "ux"]
+  },
+  {
+    "gt": "google/gsoc2014/processing",
+    "link": "https://github.com/processing/processing/wiki/Project-List",
+    "name": "The Processing Foundation",
+    "tags": ["java", "javascript", "animation", "images", "graphics", "education", "beginner"]
+  },
+  {
+    "gt": "google/gsoc2014/stellar",
+    "link": "https://github.com/STEllAR-GROUP/hpx/wiki/GSoC-2014-Project-Ideas",
+    "name": "The STE||AR Group",
+    "tags": ["parallelcomputing", "c++", "asynchronous programming", "dataflow"]
+  },
+  {
+    "gt": "google/gsoc2014/syslog_ng",
+    "link": "https://github.com/balabit/syslog-ng/wiki/GSoC2014-idea-&-project-list",
+    "name": "The syslog-ng project",
+    "tags": ["syslog", "logging", "event processing", "c", "security"]
+  },
+  {
+    "gt": "google/gsoc2014/tor",
+    "link": "https://www.torproject.org/about/gsoc.html.en",
+    "name": "The Tor Project and EFF",
+    "tags": ["c", "python", "security", "privacy", "anonymity", "anti-censorship"]
+  },
+  {
+    "gt": "google/gsoc2014/wine",
+    "link": "http://wiki.winehq.org/SummerOfCode",
+    "name": "The Wine Project",
+    "tags": ["c", "linux", "windows", "games"]
+  },
+  {
+    "gt": "google/gsoc2014/wiselib",
+    "link": "http://www.wiselib.org/gsoc/project_ideas.html",
+    "name": "The Wiselib",
+    "tags": ["wiselib", "embedded", "c++", "sensor networks", "internet of things", "ios", "android"]
+  },
+  {
+    "gt": "google/gsoc2014/thinkup",
+    "link": "https://github.com/ginatrapani/ThinkUp/wiki/Google-Summer-of-Code-2014-Ideas-Page",
+    "name": "ThinkUp",
+    "tags": ["php", "mysql", "javascript", "jquery", "bootstrap", "analytics", "smarty", "googlecharts"]
+  },
+  {
+    "gt": "google/gsoc2014/timvideos",
+    "link": "http://code.timvideos.us/Ideas.html",
+    "name": "TimVideos.us",
+    "tags": ["video", "streaming", "hardware", "python", "gstreamer", "multimedia", "media", "live", "data", "cloud", "prototype", "ruby", "verilog", "vhdl", "firmware", "web", "website", "flumotion", "audio", "sound", "system", "electronics", "frontend", "backend", "django", "fpga", "encoding", "encoder", "optimization", "ethernet", "cloud", "debian", "virtual machine", "graphics", "graphic design", "mjpeg", "jpeg", "image", "documentation", "plugin", "dvswitch", "porting", "c", "c++", "reverse engineering", "gst-switch", "automation", "rtmp", "justintv", "youtube", "xilinx", "digilent atlys", "extension board", "twisted", "flumotion", "postgresql", "mysql", "rtmp", "javascript", "html", "hdmi", "usb", "network", "electronics", "pcb", "firmware", "video", "streaming", "vhdl", "verilog", "opencores"]
+  },
+  {
+    "gt": "google/gsoc2014/twitter",
+    "link": "https://github.com/twitter/twitter.github.com/wiki/Google-Summer-of-Code-2014",
+    "name": "Twitter",
+    "tags": ["scala", "java", "javascript"]
+  },
+  {
+    "gt": "google/gsoc2014/typo3",
+    "link": "http://wiki.typo3.org/Gsoc2014/Ideas",
+    "name": "TYPO3 Association",
+    "tags": ["cms", "framework", "php", "content-management", "web"]
+  },
+  {
+    "gt": "google/gsoc2014/vtk",
+    "link": "http://www.vtk.org/Wiki/VTK/GSoC_2014",
+    "name": "Visualization Toolkit (VTK)",
+    "tags": ["c++", "opengl", "visualization", "science", "parallel"]
+  },
+  {
+    "gt": "google/gsoc2014/wikimedia",
+    "link": "https://www.mediawiki.org/wiki/Google_Summer_of_Code_2014",
+    "name": "Wikimedia",
+    "tags": ["wikipedia", "wikimedia", "mediawiki", "wiki", "php", "javascript", "html", "css", "opendata", "i18n", "input methods", "jquery", "media", "web", "bugzilla", "semantic"]
+  },
+  {
+    "gt": "google/gsoc2014/wordpress",
+    "link": "http://codex.wordpress.org/GSoC2014",
+    "name": "WordPress",
+    "tags": ["wordpress", "php", "javascript", "jquery", "tinymce", "cms", "publishing", "blogging", "mysql", "nginx"]
+  },
+  {
+    "gt": "google/gsoc2014/worldforge",
+    "link": "http://wiki.worldforge.org/wiki/Summer_of_Code",
+    "name": "WorldForge",
+    "tags": ["c++", "python", "games", "gui", "ogre", "cegui", "mmorpg", "3d", "ryzom", "opennel", "php", "blender", "lua", "ai"]
+  },
+  {
+    "gt": "google/gsoc2014/wso2_2014",
+    "link": "http://docs.wso2.org/display/GSoC/WSO2+GSoC+Project+Proposals",
+    "name": "WSO2",
+    "tags": ["soa", "middleware", "cloud computing", "paas", "java", "mobile", "javascript", "bigdata", "cep"]
+  },
+  {
+    "gt": "google/gsoc2014/wx",
+    "link": "http://www.wxwidgets.org/gsoc/projects/",
+    "name": "wxWidgets",
+    "tags": ["c++", "gui", "cross-platform", "windows", "linux", "osx", "mac"]
+  },
+  {
+    "gt": "google/gsoc2014/xorg",
+    "link": "http://www.x.org/wiki/SummerOfCodeIdeas",
+    "name": "X.Org Foundation",
+    "tags": ["graphics drivers", "x11", "wayland", "mesa", "dri", "opengl", "opencl"]
+  },
+  {
+    "gt": "google/gsoc2014/xapian",
+    "link": "http://trac.xapian.org/wiki/GSoCProjectIdeas",
+    "name": "Xapian Search Engine Library",
+    "tags": ["information retrieval", "ir", "text", "search", "index", "indexing", "indexed", "cjk", "cjkv", "japanese", "korean", "swig", "bindings", "c++", "python", "java", "c#", "csharp", "php", "go", "library", "gmane", "lucene", "parsing", "machine learning", "clustering", "xapian", "fun!"]
+  },
+  {
+    "gt": "google/gsoc2014/xen_project",
+    "link": "http://wiki.xen.org/wiki/GSoc_2014",
+    "name": "Xen Project",
+    "tags": ["virtualization", "cloud operating system", "linux"]
+  }
+]

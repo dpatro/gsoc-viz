@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>GSoC Orgs Viz</title>
+    <meta charset="utf-8">
+    <script src="scripts/d3.min.js"></script>
+    <script src="scripts/main.js"></script>
+    <script src="scripts/graph.js"></script>
+    <script src="scripts/card.js"></script>
+    <script src="scripts/chart.js"></script>
+</head>
+
+<style>
+    #selector {
+        width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #chart {
+        float: left;
+        margin: 10px;
+    }
+
+    #graph {
+        float: left;
+        margin: 10px;
+    }
+</style>
+
+<body>
+<div id="intro">
+    <p>This is a Google Summer of Code organizations details visualizer. [Currently under development.]</p>
+    <p>How to use:</p>
+    <ol>
+        <li>Select the data to load from drop-down.The bubble chart of all organizations will come up. The size of an organization corresponds to the number of areas they worked on.</li>
+        <li>Click on any bubble. The corresponding graph and card will come up. (If not in view, please scroll down). The graph is a view of areas associated with the organizations.</li>
+        <li>To reset, please reload the page</li>
+    </ol>
+    <p>Information taken from Google Summer of Code (GSoC) website. Visualization built using d3 in javascript.</p>
+</div>
+<div id="selector">
+    <select name="dataSelector" onchange="loadData(this)" autocomplete="off">
+        <option value="" SELECTED>Select Data to Load</option>
+        <option value="gsoc14.json">GSoC 2014</option>
+        <option value="gsoc13.json">GSoC 2013</option>
+    </select>
+</div>
+<div id="chart"></div>
+<div id="graph"></div>
+<div id="card"></div>
+<script>
+</script>
+
+</body>
+
+</html>
