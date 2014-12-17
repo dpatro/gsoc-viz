@@ -19,8 +19,6 @@ function drawCard(org) {
   var rect = g.append('rect')
     .attr('width', "100%")
     .attr('height', "100%")
-    .attr('x', 40)
-    .attr('y', 100)
     .style('fill', 'black')
     .style('fill-opacity', 0.1)
     .attr('stroke', 'black');
@@ -34,8 +32,7 @@ function drawCard(org) {
     .html(
       '<div>' +
       '<p><h2>' + org.name + '</h2></p>' +
-      '<p>' + org.tags.join("  ,") + '</p>' +
-      '<p><a href="' + org.link + '" target="_blank">' + org.link + '</a></p>' +
+      '<p><a href="' + org.link + '" target="_blank"> Link to Ideas </a></p>' +
       '</div>', org
   );
 
