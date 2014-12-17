@@ -17,12 +17,14 @@ function drawChart(srcJson) {
   }
 
   var height = parseInt(chartDiv.style("height")),
-      width = parseInt(chartDiv.style("width")),
-      format = d3.format(",d")
+    width = parseInt(chartDiv.style("width")),
+    format = d3.format(",d")
     ;
 
   var pack = d3.layout.pack()
-    .sort(function(a, b){return b.value- a.value;})
+    .sort(function (a, b) {
+      return b.value - a.value;
+    })
     .size([width, height])
     .padding(5);
 
@@ -72,16 +74,18 @@ function drawChart(srcJson) {
         drawGraph(d);
         drawCard(d);
       })
+      .on("mouseover", function (d) {
+        d3.select(this).transition()
+          .duration(750)
+          .attr("r", d.r + 20);
+      })
+      .on("mouseout", function(d) {
+        d3.select(this).transition()
+          .duration(750)
+          .attr("r", d.r);
+      })
     ;
-
-//    node.append("text")
-//      .attr("dy", ".3em")
-//      .style("text-anchor", "middle")
-//      .text(function (d) {
-//        return d.name;
-//      });
   });
-
 
   d3.select(self.frameElement).style("height", height + "px");
 }
