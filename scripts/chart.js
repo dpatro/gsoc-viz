@@ -2,7 +2,9 @@
  * Created by dpatro on 12/14/14.
  */
 
-function drawChart(srcJson, targetDiv) {
+function drawChart(srcJson) {
+
+  var chartDiv = d3.select("#chart");
 
   function orgs(jArray) {
     jArray.sort(function (a, b) {
@@ -14,36 +16,43 @@ function drawChart(srcJson, targetDiv) {
     })
   }
 
-  var diameter = 1024,
+  var height = parseInt(chartDiv.style("height")),
+    width = parseInt(chartDiv.style("width")),
     format = d3.format(",d")
     ;
 
-  var bubble = d3.layout.pack()
-    .sort(null)
-    .size([diameter - 4, diameter - 4])
+  var pack = d3.layout.pack()
+    .sort(function (a, b) {
+      return b.value - a.value;
+    })
+    .size([width, height-100])
     .padding(2);
-
-
-  d3.select(targetDiv).select("svg").remove();
-
-  var chart = d3.select(targetDiv).append("svg")
-      .attr("width", diameter)
-      .attr("height", diameter)
-      .attr("class", "bubble")
-    ;
-
-  chart.append("rect")
-    .attr("width", "100%")
-    .attr("height", "100%")
-    .attr("fill", "grey")
-    .style("fill-opacity", 0.1)
-  ;
 
   d3.json(srcJson, function (error, jsonArray) {
     globalDict.orgs = jsonArray.slice(0);
 
+    chartDiv.select("p").remove();
+    chartDiv.append("p")
+      .html("Total # of Organizations: " + globalDict.orgs.length + ".<br/><b>Hover</b> on bubble for more info. <b>Click</b> for detailed view.")
+    ;
+
+    var chart = chartDiv.append("svg")
+        .attr("width", "100%")
+        .attr("height", "100%")
+        .attr("class", "bubble")
+      ;
+
+    document.getElementById('chart').scrollIntoView();
+
+    chart.append("rect")
+      .attr("width", width)
+      .attr("height", height - 100)
+      .style("fill", "#FFF8D0")
+      .style("fill-opacity", 0.1)
+      .style("stroke", "black")
+    ;
     var node = chart.selectAll(".node")
-      .data(bubble.nodes({children: orgs(jsonArray)})
+      .data(pack.nodes({children: orgs(jsonArray)})
         .filter(function (d) {
           return !d.children;
         }))
@@ -67,19 +76,22 @@ function drawChart(srcJson, targetDiv) {
       })
       .style("fill-opacity", 0.5)
       .on("click", function (d) {
-        drawGraph(d);
+        document.getElementById("card").focus();
+        drawTree(d);
         drawCard(d);
       })
+      .on("mouseover", function (d) {
+        d3.select(this).transition()
+          .duration(750)
+          .attr("r", d.r + 20);
+      })
+      .on("mouseout", function (d) {
+        d3.select(this).transition()
+          .duration(750)
+          .attr("r", d.r);
+      })
     ;
-
-    node.append("text")
-      .attr("dy", ".3em")
-      .style("text-anchor", "middle")
-      .text(function (d) {
-        return d.name;
-      });
   });
 
-
-  d3.select(self.frameElement).style("height", diameter + "px");
+  d3.select(self.frameElement).style("height", height + "px");
 }
