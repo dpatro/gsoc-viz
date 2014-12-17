@@ -2,7 +2,9 @@
  * Created by dpatro on 12/14/14.
  */
 
-function drawChart(srcJson, targetDiv) {
+function drawChart(srcJson) {
+
+  var chartDiv = d3.select("#chart");
 
   function orgs(jArray) {
     jArray.sort(function (a, b) {
@@ -14,21 +16,20 @@ function drawChart(srcJson, targetDiv) {
     })
   }
 
-  var diameter = 1024,
-    format = d3.format(",d")
+  var height = parseInt(chartDiv.style("height")),
+      width = parseInt(chartDiv.style("width")),
+      format = d3.format(",d")
     ;
 
-  var bubble = d3.layout.pack()
-    .sort(null)
-    .size([diameter - 4, diameter - 4])
-    .padding(2);
+  var pack = d3.layout.pack()
+    .sort(function(a, b){return b.value- a.value;})
+    .size([width, height])
+    .padding(5);
 
-
-  d3.select(targetDiv).select("svg").remove();
-
-  var chart = d3.select(targetDiv).append("svg")
-      .attr("width", diameter)
-      .attr("height", diameter)
+  chartDiv.select("svg").remove();
+  var chart = chartDiv.append("svg")
+      .attr("width", "100%")
+      .attr("height", "100%")
       .attr("class", "bubble")
     ;
 
@@ -43,7 +44,7 @@ function drawChart(srcJson, targetDiv) {
     globalDict.orgs = jsonArray.slice(0);
 
     var node = chart.selectAll(".node")
-      .data(bubble.nodes({children: orgs(jsonArray)})
+      .data(pack.nodes({children: orgs(jsonArray)})
         .filter(function (d) {
           return !d.children;
         }))
@@ -67,19 +68,20 @@ function drawChart(srcJson, targetDiv) {
       })
       .style("fill-opacity", 0.5)
       .on("click", function (d) {
+        document.getElementById("card").focus();
         drawGraph(d);
         drawCard(d);
       })
     ;
 
-    node.append("text")
-      .attr("dy", ".3em")
-      .style("text-anchor", "middle")
-      .text(function (d) {
-        return d.name;
-      });
+//    node.append("text")
+//      .attr("dy", ".3em")
+//      .style("text-anchor", "middle")
+//      .text(function (d) {
+//        return d.name;
+//      });
   });
 
 
-  d3.select(self.frameElement).style("height", diameter + "px");
+  d3.select(self.frameElement).style("height", height + "px");
 }

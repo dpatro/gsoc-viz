@@ -11,19 +11,26 @@
 
 <style>
     #selector {
-        width: 500px;
-        margin-left: auto;
-        margin-right: auto;
+        width: 50%;
+        margin: 10px auto;
     }
 
     #chart {
-        float: left;
-        margin: 10px;
+        margin: 10px auto;
+        width: 80%;
+        height: 700px;
     }
 
     #graph {
         float: left;
-        margin: 10px;
+        width: 50%;
+        margin: 10px auto;
+    }
+
+    #card {
+        float: left;
+        width: 50%;
+        margin: 10px auto;
     }
 </style>
 
@@ -50,10 +57,10 @@
 
 <div id="chart"></div>
 
-<div id="graph"></div>
-
-
-<div id="card"></div>
+<div id="orginfo">
+    <div id="graph"></div>
+    <div id="card"></div>
+</div>
 
 <script src="scripts/d3.min.js"></script>
 <script src="scripts/main.js"></script>

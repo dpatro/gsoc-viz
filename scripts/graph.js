@@ -8,9 +8,9 @@ function drawGraph(org) {
     return {source: org.name, target: tag};
   });
 
-  // Graph
-  var diameter = globalDict.diameter;
+  var diameter = parseInt(d3.select("#graph").style("width"));
 
+  // Graph
   var nodes = {};
   // Compute the distinct nodes from the links.
   links.forEach(function (link) {
@@ -26,7 +26,7 @@ function drawGraph(org) {
     .links(links)
     .size([diameter, diameter])
 //    .linkDistance(60)
-    .charge(-900)
+    .charge(-1000)
     .on("tick", tick)
     .start();
 
@@ -48,13 +48,12 @@ function drawGraph(org) {
     .call(force.drag);
 
   node.append("circle")
-    .attr("r", function(d) {return d.index ? 20: 40;})
+    .attr("r", function(d) {return d.name.length*5;})
     .style("fill", function(d) {return d.index ? "yellow": "blue";})
     .style("fill-opacity", 0.5)
   ;
 
   node.append("text")
-    .attr("x", 10)
     .attr("dy", ".3em")
     .style("text-anchor", "middle")
     .text(function (d) {
