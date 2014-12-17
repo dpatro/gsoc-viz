@@ -1,10 +1,16 @@
 import csv
 import json
 
+from sys import argv
+
 all_entries = []
-with open('GSoC2013.csv', 'rb') as csvfile:
+with open(argv[1], 'rb') as csvfile:
     spamreader = csv.reader(csvfile, delimiter=',', quotechar='"')
+    first = True
     for row in spamreader:
+        if first:
+            first = False
+            continue
         tags = [r.strip().lower() for r in row[2].split(',')]
         all_entries.append(
             {
@@ -15,6 +21,6 @@ with open('GSoC2013.csv', 'rb') as csvfile:
             }
         )
 
-json.dump(all_entries, open("gsoc13.json", "w"))
+json.dump(all_entries, open(argv[1].split('.')[0]+".json", "w"))
 
 print "No. of entries written:", len(all_entries)

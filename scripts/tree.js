@@ -6,10 +6,11 @@ function drawTree(org) {
 
   var root = {"name": org.name, children: org.tags.map(function(tag){return {name: tag};})};
 
-  var diameter = parseInt(d3.select("#tree").style("width"));
+  var width = parseInt(d3.select("#tree").style("width"));
+  var height = width;
 
   var cluster = d3.layout.cluster()
-    .size([diameter, diameter*0.5]);
+    .size([width, height*0.5]);
 
   var diagonal = d3.svg.diagonal()
     .projection(function (d) {
@@ -19,10 +20,10 @@ function drawTree(org) {
   d3.select("#tree").select("svg").remove();
 
   var tree = d3.select("#tree").append("svg")
-    .attr("width", diameter)
-    .attr("height", diameter)
+    .attr("width", width)
+    .attr("height", height)
     .append("g")
-    .attr("transform", "translate("+diameter/4+",0)");
+    .attr("transform", "translate("+width/4+",0)");
 
   document.getElementById('orginfo').scrollIntoView();
 
@@ -63,5 +64,5 @@ function drawTree(org) {
       return d.name;
     });
 
-  d3.select(self.frameElement).style("height", diameter + "px");
+  d3.select(self.frameElement).style("height", height + "px");
 }

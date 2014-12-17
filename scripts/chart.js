@@ -25,26 +25,32 @@ function drawChart(srcJson) {
     .sort(function (a, b) {
       return b.value - a.value;
     })
-    .size([width, height])
-    .padding(5);
-
-  chartDiv.select("svg").remove();
-  var chart = chartDiv.append("svg")
-      .attr("width", "100%")
-      .attr("height", "100%")
-      .attr("class", "bubble")
-    ;
-
-  chart.append("rect")
-    .attr("width", "100%")
-    .attr("height", "100%")
-    .attr("fill", "grey")
-    .style("fill-opacity", 0.1)
-  ;
+    .size([width, height-100])
+    .padding(2);
 
   d3.json(srcJson, function (error, jsonArray) {
     globalDict.orgs = jsonArray.slice(0);
 
+    chartDiv.select("p").remove();
+    chartDiv.append("p")
+      .html("Total # of Organizations: " + globalDict.orgs.length + ".<br/><b>Hover</b> on bubble for more info. <b>Click</b> for detailed view.")
+    ;
+
+    var chart = chartDiv.append("svg")
+        .attr("width", "100%")
+        .attr("height", "100%")
+        .attr("class", "bubble")
+      ;
+
+    document.getElementById('chart').scrollIntoView();
+
+    chart.append("rect")
+      .attr("width", width)
+      .attr("height", height - 100)
+      .style("fill", "#FFF8D0")
+      .style("fill-opacity", 0.1)
+      .style("stroke", "black")
+    ;
     var node = chart.selectAll(".node")
       .data(pack.nodes({children: orgs(jsonArray)})
         .filter(function (d) {
@@ -79,7 +85,7 @@ function drawChart(srcJson) {
           .duration(750)
           .attr("r", d.r + 20);
       })
-      .on("mouseout", function(d) {
+      .on("mouseout", function (d) {
         d3.select(this).transition()
           .duration(750)
           .attr("r", d.r);
