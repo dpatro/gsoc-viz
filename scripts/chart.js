@@ -71,7 +71,7 @@ function drawChart(srcJson) {
       .style("fill-opacity", 0.5)
       .on("click", function (d) {
         document.getElementById("card").focus();
-        drawGraph(d);
+        drawTree(d);
         drawCard(d);
       })
       .on("mouseover", function (d) {

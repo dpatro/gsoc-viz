@@ -12,6 +12,7 @@ function loadData(selector){
     // Remove old graph
     d3.select("#graph").select("svg").remove();
     d3.select("#card").select("svg").remove();
+
     drawChart("data/"+selector.value, "#chart");
   }
 }

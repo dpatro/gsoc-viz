@@ -21,10 +21,15 @@
         height: 700px;
     }
 
-    #graph {
+    #tree {
         float: left;
         width: 50%;
         margin: 10px auto;
+    }
+
+    #orginfo {
+        margin: 10px;
+        min-height: 100px;
     }
 
     #card {
@@ -32,16 +37,27 @@
         width: 50%;
         margin: 10px auto;
     }
+
+    .link {
+        fill: none;
+        stroke: #ccc;
+        stroke-width: 1.5px;
+    }
 </style>
 
 <body>
 
 <div id="intro">
     <p>This is a Google Summer of Code organizations details visualizer. [Currently under development.]</p>
+
     <p>How to use:</p>
     <ol>
-        <li>Select the data to load from drop-down.The bubble chart of all organizations will come up. The size of an organization corresponds to the number of areas they worked on.</li>
-        <li>Click on any bubble. The corresponding graph and card will come up. (If not in view, please scroll down). The graph is a view of areas associated with the organizations.</li>
+        <li>Select the data to load from drop-down.The bubble chart of all organizations will come up. The size of an
+            organization corresponds to the number of areas they worked on.
+        </li>
+        <li>Click on any bubble. The corresponding graph and card will come up. (If not in view, please scroll down).
+            The graph is a view of areas associated with the organizations.
+        </li>
         <li>To reset, please reload the page</li>
     </ol>
     <p>Information taken from Google Summer of Code (GSoC) website. Visualization built using d3 in javascript.</p>
@@ -58,13 +74,13 @@
 <div id="chart"></div>
 
 <div id="orginfo">
-    <div id="graph"></div>
+    <div id="tree"></div>
     <div id="card"></div>
 </div>
 
 <script src="scripts/d3.min.js"></script>
 <script src="scripts/main.js"></script>
-<script src="scripts/graph.js"></script>
+<script src="scripts/tree.js"></script>
 <script src="scripts/card.js"></script>
 <script src="scripts/chart.js"></script>
 
